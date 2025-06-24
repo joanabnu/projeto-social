@@ -5,5 +5,6 @@
 body{
     width: 100vw;
     height: 100vh;
-    background: black url('/pacote-d013/imagens/tela-home.jpg');
+    background: black url('/pacote-d013/imagens/tela-home.jpg') no-repeat top center;
+    background-size: cover;
 }
