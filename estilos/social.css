@@ -1,4 +1,5 @@
-  * {
+ @charset "UTF-8";
+ * {
         margin: 0px;
         padding: 0px;
         font-family: Arial, Helvetica, sans-serif;
@@ -17,7 +18,10 @@
         text-align: center;
         font-weight: bolder;
         text-decoration: none;
+        height: 100px;
+       
       }
       a:hover{
+       
         background-color: aquamarine;
       }
